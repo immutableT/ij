@@ -4,6 +4,7 @@
       <mapping ext="manifest" type="Kubernetes YAML" />
       <mapping pattern="BUILD" type="PLAIN_TEXT" />
       <mapping ext="sed" type="PLAIN_TEXT" />
+      <mapping ext="socket" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
