@@ -1,8 +1,10 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="DockerfileTestCases" type="Dockerfile" />
       <mapping ext="manifest" type="Kubernetes YAML" />
       <mapping pattern="BUILD" type="PLAIN_TEXT" />
+      <mapping pattern="DockerfileTest" type="PLAIN_TEXT" />
       <mapping ext="sed" type="PLAIN_TEXT" />
       <mapping ext="socket" type="PLAIN_TEXT" />
     </extensionMap>
