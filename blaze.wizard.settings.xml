@@ -1,0 +1,12 @@
+<application>
+  <component name="BlazeWizardUserSettings">
+    <settings>
+      <entry key="blaze-wizard.last-imported-workspace" value="/google/src/cloud/alextc/remove-secrets-switch/google3" />
+      <entry key="create-citc-workspace.last-switch-client" value="remove-secrets-switch" />
+      <entry key="create-citc-workspace.used-switch-client" value="true" />
+      <entry key="generate-from-build-file.last-workspace-path" value="cloud/kubernetes/BUILD" />
+      <entry key="select-project-view.selected-option" value="generate-from-build-file" />
+      <entry key="select-workspace.selected-option" value="create-new-citc-workspace" />
+    </settings>
+  </component>
+</application>
