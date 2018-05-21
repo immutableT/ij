@@ -1,8 +1,8 @@
 <application>
   <component name="BlazeWizardUserSettings">
     <settings>
-      <entry key="blaze-wizard.last-imported-workspace" value="/google/src/cloud/alextc/gke-secrets-stage2-switch/google3::/google/src/cloud/alextc/remove-secrets-switch/google3" />
-      <entry key="create-citc-workspace.last-switch-client" value="gke-secrets-stage2-switch" />
+      <entry key="blaze-wizard.last-imported-workspace" value="/google/src/cloud/alextc/gke-kms-client-switch/google3::/google/src/cloud/alextc/gke-secrets-stage2-switch/google3::/google/src/cloud/alextc/remove-secrets-switch/google3" />
+      <entry key="create-citc-workspace.last-switch-client" value="gke-kms-client-switch" />
       <entry key="create-citc-workspace.used-switch-client" value="true" />
       <entry key="generate-from-build-file.last-workspace-path" value="cloud/kubernetes/BUILD" />
       <entry key="select-project-view.selected-option" value="generate-from-build-file" />
