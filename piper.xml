@@ -1,5 +1,10 @@
 <application>
   <component name="Piper.ChangeListSettings">
     <option name="moveChangesToNewChangeList" value="false" />
+    <option name="enabledBeforeReviewTasks">
+      <map>
+        <entry key="g4_fix" value="true" />
+      </map>
+    </option>
   </component>
 </application>
