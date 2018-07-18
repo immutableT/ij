@@ -1,0 +1,9 @@
+<application>
+  <component name="CodeReview.FilterSettings">
+    <option name="toolWindowFilterModes">
+      <FilterModes>
+        <option name="commentThreadFilter" value="SHOW_UNRESOLVED" />
+      </FilterModes>
+    </option>
+  </component>
+</application>
