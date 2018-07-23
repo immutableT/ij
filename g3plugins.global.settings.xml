@@ -8,6 +8,7 @@
       <entry key="DisableSafeWrite" value="true" />
       <entry key="IgnorePipertmpFiles" value="true" />
       <entry key="JsdocReturnTag" value="true" />
+      <entry key="PiccoloFileType" value="true" />
       <entry key="ReopenLastProjectOnStartup" value="true" />
       <entry key="SynchronizeFilesOnFrameActivation" value="true" />
     </appliedSettings>
