@@ -1,10 +1,10 @@
 <application>
   <component name="BlazeWizardUserSettings">
     <settings>
-      <entry key="blaze-wizard.last-imported-workspace" value="/google/src/cloud/alextc/ij-switch/google3::/google/src/cloud/alextc/input-validation-switch/google3::/google/src/cloud/alextc/gke-image-vuln-scan-switch/google3::/google/src/cloud/alextc/validation-tests-table-switch/google3::/google/src/cloud/alextc/kms-plugin-google3-staged-switch/google3::/google/src/cloud/alextc/kms-plugin-google3-switch/google3::/google/src/cloud/alextc/proto-v2-switch/google3::/google/src/cloud/alextc/kms-plugin-container-switch/google3" />
-      <entry key="create-citc-workspace.last-switch-client" value="ij-switch" />
+      <entry key="blaze-wizard.last-imported-workspace" value="/google/src/cloud/alextc/kms-region-aware-switch/google3::/google/src/cloud/alextc/ij-switch/google3::/google/src/cloud/alextc/input-validation-switch/google3::/google/src/cloud/alextc/gke-image-vuln-scan-switch/google3::/google/src/cloud/alextc/validation-tests-table-switch/google3::/google/src/cloud/alextc/kms-plugin-google3-staged-switch/google3::/google/src/cloud/alextc/kms-plugin-google3-switch/google3::/google/src/cloud/alextc/proto-v2-switch/google3" />
+      <entry key="create-citc-workspace.last-switch-client" value="kms-region-aware-switch" />
       <entry key="create-citc-workspace.used-switch-client" value="true" />
-      <entry key="generate-from-build-file.last-workspace-path" value="cloud/kubernetes/BUILD" />
+      <entry key="generate-from-build-file.last-workspace-path" value="cloud/security/kms/client/go/BUILD" />
       <entry key="select-project-view.selected-option" value="generate-from-build-file" />
       <entry key="select-workspace.selected-option" value="create-new-citc-workspace" />
     </settings>
