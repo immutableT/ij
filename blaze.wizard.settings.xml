@@ -6,7 +6,7 @@
       <entry key="create-citc-workspace.used-switch-client" value="true" />
       <entry key="generate-from-build-file.last-workspace-path" value="cloud/kubernetes/BUILD" />
       <entry key="select-project-view.selected-option" value="generate-from-build-file" />
-      <entry key="select-workspace.selected-option" value="create-new-citc-workspace" />
+      <entry key="select-workspace.selected-option" value="piper-workspace-type" />
     </settings>
   </component>
 </application>
