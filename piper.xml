@@ -1,5 +1,6 @@
 <application>
   <component name="Piper.ChangeListSettings">
+    <option name="showUploadSnapshotDialog" value="false" />
     <option name="enabledBeforeReviewTasks">
       <map>
         <entry key="g4_fix" value="true" />
