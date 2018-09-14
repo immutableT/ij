@@ -3,12 +3,8 @@
     <option name="visitedUrls">
       <list>
         <UrlAndUserName>
-          <option name="url" value="https://github.com/immutableT/kubernetes.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://github.com/kubernetes/website.git" />
-          <option name="userName" value="" />
+          <option name="url" value="http://github.com" />
+          <option name="userName" value="immutableT" />
         </UrlAndUserName>
         <UrlAndUserName>
           <option name="url" value="https://github.com/immutableT/website.git" />
