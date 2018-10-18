@@ -9,12 +9,28 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Maximize Tool Window">
+        <Item>
+          <IdeaActionID>MaximizeToolWindow</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+Quote'</ShortCut>
+          <Description>Maximize Tool Window</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Terminal">
         <Item>
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>3</Count>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
+    </option>
+    <option name="suppressed">
+      <Statistic Action="Event Log">
+        <Item>
+          <IdeaActionID>ActivateEventLogToolWindow</IdeaActionID>
+          <Description>Event Log</Description>
         </Item>
       </Statistic>
     </option>
