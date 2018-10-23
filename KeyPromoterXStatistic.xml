@@ -14,7 +14,7 @@
           <IdeaActionID>ActivateCodeReviewToolWindow</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Shift+D'</ShortCut>
           <Description>Code Review</Description>
-          <Count>2</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy">
