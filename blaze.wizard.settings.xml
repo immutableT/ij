@@ -1,7 +1,7 @@
 <application>
   <component name="BlazeWizardUserSettings">
     <settings>
-      <entry key="blaze-wizard.last-imported-workspace" value="/google/src/cloud/alextc/ij-cloud-top-switch/google3::/google/src/cloud/alextc/ij-gke-switch/google3::/google/src/cloud/alextc/refactor-to-kms-key-resource-name-switch/google3::/google/src/cloud/alextc/kms-region-aware-switch/google3::/google/src/cloud/alextc/ij-switch/google3::/google/src/cloud/alextc/input-validation-switch/google3::/google/src/cloud/alextc/gke-image-vuln-scan-switch/google3::/google/src/cloud/alextc/validation-tests-table-switch/google3" />
+      <entry key="blaze-wizard.last-imported-workspace" value="/google/src/cloud/alextc/cms/google3::/google/src/cloud/alextc/ij-cloud-top-switch/google3::/google/src/cloud/alextc/ij-gke-switch/google3::/google/src/cloud/alextc/refactor-to-kms-key-resource-name-switch/google3::/google/src/cloud/alextc/kms-region-aware-switch/google3::/google/src/cloud/alextc/ij-switch/google3::/google/src/cloud/alextc/input-validation-switch/google3::/google/src/cloud/alextc/gke-image-vuln-scan-switch/google3" />
       <entry key="create-citc-workspace.last-switch-client" value="ij-cloud-top-switch" />
       <entry key="create-citc-workspace.used-switch-client" value="true" />
       <entry key="generate-from-build-file.last-workspace-path" value="cloud/kubernetes/BUILD" />
