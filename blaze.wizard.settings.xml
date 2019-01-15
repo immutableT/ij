@@ -1,12 +1,13 @@
 <application>
   <component name="BlazeWizardUserSettings">
     <settings>
+      <entry key="blaze-wizard.last-imported-bazel-workspace" value="$USER_HOME$/go/src/cluster-management" />
       <entry key="blaze-wizard.last-imported-workspace" value="/google/src/cloud/alextc/cms/google3::/google/src/cloud/alextc/ij-cloud-top-switch/google3::/google/src/cloud/alextc/ij-gke-switch/google3::/google/src/cloud/alextc/refactor-to-kms-key-resource-name-switch/google3::/google/src/cloud/alextc/kms-region-aware-switch/google3::/google/src/cloud/alextc/ij-switch/google3::/google/src/cloud/alextc/input-validation-switch/google3::/google/src/cloud/alextc/gke-image-vuln-scan-switch/google3" />
       <entry key="create-citc-workspace.last-switch-client" value="ij-cloud-top-switch" />
       <entry key="create-citc-workspace.used-switch-client" value="true" />
-      <entry key="generate-from-build-file.last-workspace-path" value="cloud/kubernetes/BUILD" />
+      <entry key="generate-from-build-file.last-workspace-path" value="BUILD.bazel" />
       <entry key="select-project-view.selected-option" value="generate-from-build-file" />
-      <entry key="select-workspace.selected-option" value="piper-workspace-type" />
+      <entry key="select-workspace.selected-option" value="use-existing-bazel-workspace" />
     </settings>
   </component>
 </application>
