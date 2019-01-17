@@ -22,7 +22,7 @@
           <IdeaActionID>$Copy</IdeaActionID>
           <ShortCut>'Ctrl+C' or 'Ctrl+Insert'</ShortCut>
           <Description>Copy</Description>
-          <Count>51</Count>
+          <Count>52</Count>
         </Item>
       </Statistic>
       <Statistic Action="Cut">
@@ -78,7 +78,7 @@
           <IdeaActionID>GoFmtFileAction</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Shift+F'</ShortCut>
           <Description>Go fmt file</Description>
-          <Count>6</Count>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="Implementation(s)">
