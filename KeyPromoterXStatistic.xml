@@ -22,7 +22,7 @@
           <IdeaActionID>$Copy</IdeaActionID>
           <ShortCut>'Ctrl+C' or 'Ctrl+Insert'</ShortCut>
           <Description>Copy</Description>
-          <Count>54</Count>
+          <Count>57</Count>
         </Item>
       </Statistic>
       <Statistic Action="Cut">
@@ -190,7 +190,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun 'Blaze test plugin_test.go'</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -230,7 +230,7 @@
           <IdeaActionID>Blaze.IncrementalSyncProject</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Shift+B'</ShortCut>
           <Description>Sync Project with BUILD Files</Description>
-          <Count>4</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Terminal">
@@ -238,7 +238,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>33</Count>
+          <Count>35</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
