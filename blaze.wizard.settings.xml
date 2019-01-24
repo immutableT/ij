@@ -2,7 +2,7 @@
   <component name="BlazeWizardUserSettings">
     <settings>
       <entry key="blaze-wizard.last-imported-bazel-workspace" value="$USER_HOME$/go/src/cluster-management" />
-      <entry key="blaze-wizard.last-imported-workspace" value="/google/src/cloud/alextc/fake-kubectl/google3::/google/src/cloud/alextc/kms-plugin/google3::/google/src/cloud/alextc/cms/google3::/google/src/cloud/alextc/ij-cloud-top-switch/google3::/google/src/cloud/alextc/ij-gke-switch/google3::/google/src/cloud/alextc/refactor-to-kms-key-resource-name-switch/google3::/google/src/cloud/alextc/kms-region-aware-switch/google3::/google/src/cloud/alextc/ij-switch/google3" />
+      <entry key="blaze-wizard.last-imported-workspace" value="/google/src/cloud/alextc/e2e-encryption-test/google3::/google/src/cloud/alextc/fake-kubectl/google3::/google/src/cloud/alextc/kms-plugin/google3::/google/src/cloud/alextc/cms/google3::/google/src/cloud/alextc/ij-cloud-top-switch/google3::/google/src/cloud/alextc/ij-gke-switch/google3::/google/src/cloud/alextc/refactor-to-kms-key-resource-name-switch/google3::/google/src/cloud/alextc/kms-region-aware-switch/google3" />
       <entry key="create-citc-workspace.last-switch-client" value="ij-cloud-top-switch" />
       <entry key="create-citc-workspace.used-switch-client" value="false" />
       <entry key="generate-from-build-file.last-workspace-path" value="cloud/kubernetes/BUILD" />
