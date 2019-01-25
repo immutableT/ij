@@ -14,7 +14,7 @@
           <IdeaActionID>ActivateCodeReviewToolWindow</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Shift+D'</ShortCut>
           <Description>Code Review</Description>
-          <Count>20</Count>
+          <Count>21</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy">
@@ -278,7 +278,7 @@
           <IdeaActionID>Blaze.IncrementalSyncProject</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Shift+B'</ShortCut>
           <Description>Sync Project with BUILD Files</Description>
-          <Count>18</Count>
+          <Count>19</Count>
         </Item>
       </Statistic>
       <Statistic Action="Terminal">
