@@ -78,7 +78,7 @@
           <IdeaActionID>G4Sync</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Shift+4'</ShortCut>
           <Description>G4 Sync...</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Go fmt file">
@@ -222,7 +222,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun 'Blaze test manifest_test.go#TestKMSPluginManifest'</Description>
-          <Count>5</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'Blaze test manifest_test.go'">
@@ -350,7 +350,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>28</Count>
+          <Count>29</Count>
         </Item>
       </Statistic>
     </option>
