@@ -12,6 +12,7 @@
       <entry key="PiccoloFileType" value="true" />
       <entry key="ReopenLastProjectOnStartup" value="true" />
       <entry key="SynchronizeFilesOnFrameActivation" value="true" />
+      <entry key="TypeScriptConfigFileType" value="true" />
     </appliedSettings>
   </component>
 </application>
