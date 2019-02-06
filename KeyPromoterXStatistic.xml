@@ -22,7 +22,7 @@
           <IdeaActionID>$Copy</IdeaActionID>
           <ShortCut>'Ctrl+C' or 'Ctrl+Insert'</ShortCut>
           <Description>Copy</Description>
-          <Count>88</Count>
+          <Count>90</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy Value">
@@ -126,7 +126,7 @@
           <IdeaActionID>$Paste</IdeaActionID>
           <ShortCut>'Ctrl+V' or 'Shift+Insert'</ShortCut>
           <Description>Paste</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Paste without Formatting">
@@ -151,6 +151,14 @@
           <ShortCut>'Ctrl+Shift+K'</ShortCut>
           <Description>Push...</Description>
           <Count>7</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Redo Paste">
+        <Item>
+          <IdeaActionID>$Redo</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+Z' or 'Alt+Shift+Backspace'</ShortCut>
+          <Description>Redo Paste</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Remove Module">
@@ -294,7 +302,7 @@
           <IdeaActionID>SafeDelete</IdeaActionID>
           <ShortCut>'Alt+Delete'</ShortCut>
           <Description>Safe Delete...</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Settings...">
@@ -342,7 +350,7 @@
           <IdeaActionID>Blaze.IncrementalSyncProject</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Shift+B'</ShortCut>
           <Description>Sync Project with BUILD Files</Description>
-          <Count>53</Count>
+          <Count>57</Count>
         </Item>
       </Statistic>
       <Statistic Action="Terminal">
@@ -350,7 +358,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>81</Count>
+          <Count>82</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
