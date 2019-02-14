@@ -2,5 +2,9 @@
   <component name="PathMacrosImpl">
     <macro name="MAVEN_REPOSITORY" value="/usr/local/google/home/alextc/.m2/repository" />
     <macro name="KOTLIN_BUNDLED" value="/opt/intellij-ue-2018.1/plugins/Kotlin/kotlinc" />
+    <ignoredMacro name="MESSAGE" />
+    <ignoredMacro name="FILE_PATH" />
+    <ignoredMacro name="LINE" />
+    <ignoredMacro name="COLUMN" />
   </component>
 </application>

@@ -24,5 +24,27 @@
         <env name="PATH" value="$GoBinDirs$" />
       </envs>
     </TaskOptions>
+    <global-watchers>
+      <TaskOptions>
+        <option name="arguments" value="" />
+        <option name="checkSyntaxErrors" value="true" />
+        <option name="description" />
+        <option name="exitCodeBehavior" value="ERROR" />
+        <option name="fileExtension" value="go" />
+        <option name="immediateSync" value="true" />
+        <option name="name" value="glaze" />
+        <option name="output" value="" />
+        <option name="outputFilters">
+          <array />
+        </option>
+        <option name="outputFromStdout" value="false" />
+        <option name="program" value="/usr/bin/glaze" />
+        <option name="runOnExternalChanges" value="true" />
+        <option name="scopeName" value="All Places" />
+        <option name="trackOnlyRoot" value="false" />
+        <option name="workingDir" value="$FileDir$" />
+        <envs />
+      </TaskOptions>
+    </global-watchers>
   </component>
 </application>
