@@ -17,6 +17,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Change Signature...">
+        <Item>
+          <IdeaActionID>ChangeSignature</IdeaActionID>
+          <ShortCut>'Ctrl+F6'</ShortCut>
+          <Description>Change Signature...</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Code Review">
         <Item>
           <IdeaActionID>ActivateCodeReviewToolWindow</IdeaActionID>
@@ -374,7 +382,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>125</Count>
+          <Count>126</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
