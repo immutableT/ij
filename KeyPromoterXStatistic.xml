@@ -110,7 +110,7 @@
           <IdeaActionID>G4Sync</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Shift+4'</ShortCut>
           <Description>G4 Sync...</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Go fmt file">
@@ -462,7 +462,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>157</Count>
+          <Count>161</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
@@ -486,7 +486,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>85</Count>
+          <Count>88</Count>
         </Item>
       </Statistic>
     </option>
