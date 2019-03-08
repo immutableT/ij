@@ -318,7 +318,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun 'Blaze test plugin_test.go#TestNonRetryableErrors'</Description>
-          <Count>4</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'Blaze test plugin_test.go#TestRateLimit'">
