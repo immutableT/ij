@@ -337,6 +337,14 @@
           <Count>12</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'Blaze test monitor_test.go#TestClusterSetToDegraded'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'Blaze test monitor_test.go#TestClusterSetToDegraded'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'Blaze test plugin_test.go (1)'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -518,7 +526,7 @@
           <IdeaActionID>Blaze.IncrementalSyncProject</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Shift+B'</ShortCut>
           <Description>Sync Project with BUILD Files</Description>
-          <Count>106</Count>
+          <Count>107</Count>
         </Item>
       </Statistic>
       <Statistic Action="Terminal">
@@ -526,7 +534,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>212</Count>
+          <Count>213</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
