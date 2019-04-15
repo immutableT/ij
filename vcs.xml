@@ -28,6 +28,6 @@
         </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/go/src/google" />
+    <option name="cloneParentDir" value="$USER_HOME$/go/src" />
   </component>
 </application>
