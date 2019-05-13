@@ -1,6 +1,7 @@
 <application>
   <component name="BlazeUserSettings">
     <option name="bazelBinaryPath" value="/usr/bin/bazel" />
+    <option name="expandSyncToWorkingSet" value="false" />
     <option name="resyncOnProtoChanges" value="true" />
     <option name="showPerformanceWarnings" value="true" />
     <option name="syncStatusPopupShown" value="true" />
