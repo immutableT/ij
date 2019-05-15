@@ -502,7 +502,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun 'TestTotals in k8s.io/kubernetes/staging/src/k8s.io/apiserver/pkg/storage/value'</Description>
-          <Count>7</Count>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'go test k8s.io/kubernetes/cluster/gce/gci'">
