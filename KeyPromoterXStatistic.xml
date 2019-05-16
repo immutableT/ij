@@ -57,6 +57,14 @@
           <Count>220</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Copy Path">
+        <Item>
+          <IdeaActionID>CopyPaths</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+C'</ShortCut>
+          <Description>Copy Path</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Copy Value">
         <Item>
           <IdeaActionID>XDebugger.CopyValue</IdeaActionID>
@@ -94,7 +102,7 @@
           <IdeaActionID>$Delete</IdeaActionID>
           <ShortCut>'Delete'</ShortCut>
           <Description>Delete...</Description>
-          <Count>38</Count>
+          <Count>39</Count>
         </Item>
       </Statistic>
       <Statistic Action="Exclude">
@@ -110,7 +118,7 @@
           <IdeaActionID>GotoAction</IdeaActionID>
           <ShortCut>'Ctrl+Shift+A'</ShortCut>
           <Description>Find Action...</Description>
-          <Count>42</Count>
+          <Count>44</Count>
         </Item>
       </Statistic>
       <Statistic Action="Find Usages">

@@ -5,6 +5,7 @@
         <option value="/usr/../lib/google-golang" />
         <option value="/usr/lib/google-golang" />
         <option value="/usr/local/go" />
+        <option value="$USER_HOME$/bin/go" />
       </set>
     </sdk-path>
   </component>
