@@ -118,7 +118,7 @@
           <IdeaActionID>GotoAction</IdeaActionID>
           <ShortCut>'Ctrl+Shift+A'</ShortCut>
           <Description>Find Action...</Description>
-          <Count>46</Count>
+          <Count>48</Count>
         </Item>
       </Statistic>
       <Statistic Action="Find Usages">
@@ -662,7 +662,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>288</Count>
+          <Count>289</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
