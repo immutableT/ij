@@ -502,7 +502,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun 'TestIsKMSPluginReady in k8s.io/apiserver/pkg/server/options/encryptionconfig'</Description>
-          <Count>2</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'TestMetrics in k8s.io/kubernetes/staging/src/k8s.io/apiserver/pkg/storage/value'">
@@ -534,7 +534,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>40</Count>
+          <Count>42</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -655,6 +655,14 @@
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'TestExportEncKey in github.com/heptiolabs/google-kms-pgp/tests'</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'TestIsKMSPluginReady in k8s.io/apiserver/pkg/server/options/encryptionconfig'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'TestIsKMSPluginReady in k8s.io/apiserver/pkg/server/options/encryptionconfig'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Structure">
