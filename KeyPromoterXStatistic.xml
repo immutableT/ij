@@ -150,7 +150,7 @@
           <IdeaActionID>GoFmtFileAction</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Shift+F'</ShortCut>
           <Description>Go fmt file</Description>
-          <Count>15</Count>
+          <Count>18</Count>
         </Item>
       </Statistic>
       <Statistic Action="Implementation(s)">
@@ -505,6 +505,14 @@
           <Count>4</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'TestKMSPluginHealthz in k8s.io/apiserver/pkg/server/options/encryptionconfig'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'TestKMSPluginHealthz in k8s.io/apiserver/pkg/server/options/encryptionconfig'</Description>
+          <Count>12</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'TestKMSPluginHealthzCheck in k8s.io/apiserver/pkg/server/options/encryptionconfig'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -606,7 +614,7 @@
           <IdeaActionID>Diff.ShowDiff</IdeaActionID>
           <ShortCut>'Ctrl+D'</ShortCut>
           <Description>Show Diff</Description>
-          <Count>40</Count>
+          <Count>41</Count>
         </Item>
       </Statistic>
       <Statistic Action="Step Into">
@@ -694,7 +702,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>311</Count>
+          <Count>314</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
@@ -718,7 +726,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>191</Count>
+          <Count>194</Count>
         </Item>
       </Statistic>
     </option>
