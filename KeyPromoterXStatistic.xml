@@ -38,7 +38,7 @@
           <IdeaActionID>ActivateCodeReviewToolWindow</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Shift+D'</ShortCut>
           <Description>Code Review</Description>
-          <Count>51</Count>
+          <Count>52</Count>
         </Item>
       </Statistic>
       <Statistic Action="Commit...">
@@ -246,7 +246,7 @@
           <IdeaActionID>RenameElement</IdeaActionID>
           <ShortCut>'Shift+F6'</ShortCut>
           <Description>Rename...</Description>
-          <Count>31</Count>
+          <Count>33</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'Blaze run plugin:k8s-cloud-kms-plugin'">
@@ -710,7 +710,7 @@
           <IdeaActionID>Blaze.IncrementalSyncProject</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Shift+B'</ShortCut>
           <Description>Sync Project with BUILD Files</Description>
-          <Count>153</Count>
+          <Count>159</Count>
         </Item>
       </Statistic>
       <Statistic Action="Terminal">
@@ -718,7 +718,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>368</Count>
+          <Count>371</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
@@ -734,7 +734,7 @@
           <IdeaActionID>Piper.ChangeList.Snapshot</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Shift+U'</ShortCut>
           <Description>Upload Snapshot to Critique</Description>
-          <Count>158</Count>
+          <Count>165</Count>
         </Item>
       </Statistic>
       <Statistic Action="Version Control">
