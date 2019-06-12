@@ -742,7 +742,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>245</Count>
+          <Count>246</Count>
         </Item>
       </Statistic>
     </option>
