@@ -718,7 +718,7 @@
           <IdeaActionID>Blaze.IncrementalSyncProject</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Shift+B'</ShortCut>
           <Description>Sync Project with BUILD Files</Description>
-          <Count>164</Count>
+          <Count>166</Count>
         </Item>
       </Statistic>
       <Statistic Action="Terminal">
@@ -726,7 +726,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>383</Count>
+          <Count>384</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
