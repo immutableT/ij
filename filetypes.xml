@@ -7,6 +7,7 @@
       <mapping pattern="dockerfile" type="Dockerfile" />
       <mapping ext="manifest" type="JSON" />
       <mapping pattern=".bazelrc" type="PLAIN_TEXT" />
+      <mapping pattern="released-tricorder-vet" type="PLAIN_TEXT" />
       <mapping ext="crt" type="PLAIN_TEXT" />
       <mapping ext="key" type="PLAIN_TEXT" />
       <mapping ext="1" type="PLAIN_TEXT" />
