@@ -606,7 +606,7 @@
           <IdeaActionID>ChangesView.Revert</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Z'</ShortCut>
           <Description>Revert...</Description>
-          <Count>63</Count>
+          <Count>64</Count>
         </Item>
       </Statistic>
       <Statistic Action="Reword...">
@@ -750,7 +750,7 @@
           <IdeaActionID>Blaze.IncrementalSyncProject</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Shift+B'</ShortCut>
           <Description>Sync Project with BUILD Files</Description>
-          <Count>177</Count>
+          <Count>178</Count>
         </Item>
       </Statistic>
       <Statistic Action="Terminal">
@@ -758,7 +758,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>395</Count>
+          <Count>396</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
@@ -782,7 +782,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>260</Count>
+          <Count>261</Count>
         </Item>
       </Statistic>
     </option>
