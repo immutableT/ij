@@ -697,6 +697,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'Blaze test logpii_test.go#TestProtoEmbed'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'Blaze test logpii_test.go#TestProtoEmbed'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'Blaze test monitor_test.go#TestClusterSetToDegraded'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -758,7 +766,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>397</Count>
+          <Count>399</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
