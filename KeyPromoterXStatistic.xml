@@ -550,7 +550,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun 'TestKMSPluginHealthz in k8s.io/apiserver/pkg/server/options/encryptionconfig'</Description>
-          <Count>41</Count>
+          <Count>43</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'TestKMSPluginHealthzCheck in k8s.io/apiserver/pkg/server/options/encryptionconfig'">
@@ -806,7 +806,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>286</Count>
+          <Count>287</Count>
         </Item>
       </Statistic>
     </option>
