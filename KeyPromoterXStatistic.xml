@@ -118,7 +118,7 @@
           <IdeaActionID>GotoAction</IdeaActionID>
           <ShortCut>'Ctrl+Shift+A'</ShortCut>
           <Description>Find Action...</Description>
-          <Count>66</Count>
+          <Count>68</Count>
         </Item>
       </Statistic>
       <Statistic Action="Find Usages">
@@ -198,7 +198,7 @@
           <IdeaActionID>$Paste</IdeaActionID>
           <ShortCut>'Ctrl+V' or 'Shift+Insert'</ShortCut>
           <Description>Paste</Description>
-          <Count>13</Count>
+          <Count>14</Count>
         </Item>
       </Statistic>
       <Statistic Action="Paste without Formatting">
@@ -279,6 +279,14 @@
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun 'Blaze test TestDatabaseEncryptionOnCreateCluster (//cloud/kubernetes/server:validate_test)'</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'Blaze test borglogger_test.go#TestFilter'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'Blaze test borglogger_test.go#TestFilter'</Description>
+          <Count>12</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'Blaze test borglogger_test.go#TestHasFieldMask'">
@@ -806,7 +814,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>444</Count>
+          <Count>447</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
