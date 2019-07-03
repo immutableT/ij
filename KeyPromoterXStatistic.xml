@@ -286,7 +286,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun 'Blaze test borglogger_test.go#TestFilter'</Description>
-          <Count>12</Count>
+          <Count>20</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'Blaze test borglogger_test.go#TestHasFieldMask'">
@@ -654,7 +654,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'Alt+4'</ShortCut>
           <Description>Run</Description>
-          <Count>29</Count>
+          <Count>30</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'create_secret.sh'">
@@ -814,7 +814,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>447</Count>
+          <Count>448</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
