@@ -318,7 +318,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun 'Blaze test borglogger_test.go#TestSanitize'</Description>
-          <Count>23</Count>
+          <Count>27</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'Blaze test clients:kmsclient_test'">
@@ -854,7 +854,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>462</Count>
+          <Count>463</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
@@ -870,7 +870,7 @@
           <IdeaActionID>Piper.ChangeList.Snapshot</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Shift+U'</ShortCut>
           <Description>Upload Snapshot to Critique</Description>
-          <Count>186</Count>
+          <Count>188</Count>
         </Item>
       </Statistic>
       <Statistic Action="Version Control">
