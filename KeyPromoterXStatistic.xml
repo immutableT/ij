@@ -854,7 +854,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>464</Count>
+          <Count>467</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
