@@ -918,7 +918,7 @@
           <IdeaActionID>Piper.ChangeList.Snapshot</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Shift+U'</ShortCut>
           <Description>Upload Snapshot to Critique</Description>
-          <Count>198</Count>
+          <Count>199</Count>
         </Item>
       </Statistic>
       <Statistic Action="Version Control">
@@ -926,7 +926,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>304</Count>
+          <Count>305</Count>
         </Item>
       </Statistic>
     </option>
