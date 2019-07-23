@@ -849,6 +849,14 @@
           <Count>6</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'Blaze test plugin_test.go#TestCtx'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'Blaze test plugin_test.go#TestCtx'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'Blaze test plugin_test.go#TestNonRetryableErrors'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -910,7 +918,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>476</Count>
+          <Count>477</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
