@@ -817,6 +817,14 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'Blaze test debuglogger_test.go#TestLog'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'Blaze test debuglogger_test.go#TestLog'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'Blaze test debuglogger_test.go#TestSanitize'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -934,7 +942,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>105</Count>
+          <Count>106</Count>
         </Item>
       </Statistic>
       <Statistic Action="Upload Snapshot to Critique">
