@@ -2,10 +2,10 @@
   <component name="BlazeWizardUserSettings">
     <settings>
       <entry key="blaze-wizard.last-imported-bazel-workspace" value="$USER_HOME$/go/src/k8s.io/kubernetes::/usr/local/google/home/alextc/go/src/GoogleCloudPlatform/k8s-cloudkms-plugin::/usr/local/google/home/alextc/go/src/gke-internal/kubernetes::/usr/local/google/home/alextc/go/src/cluster-management" />
-      <entry key="blaze-wizard.last-imported-workspace" value="/google/src/cloud/alextc/master_database_encryption_test/google3::/google/src/cloud/alextc/secrets-web-hook/google3::/google/src/cloud/alextc/gke/google3::/google/src/cloud/alextc/gobugs/google3::/google/src/cloud/alextc/kms-plugin/google3::/google/src/cloud/alextc/logging-examples/google3::/google/src/cloud/alextc/static-analysis/google3::/google/src/cloud/alextc/key-resource-gce/google3" />
+      <entry key="blaze-wizard.last-imported-workspace" value="/google/src/cloud/alextc/gobugs-2/google3::/google/src/cloud/alextc/master_database_encryption_test/google3::/google/src/cloud/alextc/secrets-web-hook/google3::/google/src/cloud/alextc/gke/google3::/google/src/cloud/alextc/gobugs/google3::/google/src/cloud/alextc/kms-plugin/google3::/google/src/cloud/alextc/logging-examples/google3::/google/src/cloud/alextc/static-analysis/google3" />
       <entry key="create-citc-workspace.last-switch-client" value="ij-cloud-top-switch" />
       <entry key="create-citc-workspace.used-switch-client" value="false" />
-      <entry key="generate-from-build-file.last-workspace-path" value="cloud/kubernetes/test/BUILD" />
+      <entry key="generate-from-build-file.last-workspace-path" value="go/src/gobugs/BUILD" />
       <entry key="import-from-workspace.last-workspace-path" value=".ijwb/.bazelproject" />
       <entry key="select-project-view.selected-option" value="generate-from-build-file" />
       <entry key="select-workspace.selected-option" value="piper-workspace-type" />
