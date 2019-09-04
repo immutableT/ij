@@ -6,6 +6,7 @@
       <mapping ext="bazel" type="BUILD" />
       <mapping pattern="dockerfile" type="Dockerfile" />
       <mapping ext="manifest" type="JSON" />
+      <mapping pattern="journal" type="PLAIN_TEXT" />
       <mapping pattern=".bazelrc" type="PLAIN_TEXT" />
       <mapping pattern="released-tricorder-vet" type="PLAIN_TEXT" />
       <mapping ext="crt" type="PLAIN_TEXT" />
