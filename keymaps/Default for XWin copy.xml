@@ -5,6 +5,9 @@
   <action id="Blaze.IncrementalSyncProject">
     <keyboard-shortcut first-keystroke="shift ctrl alt b" />
   </action>
+  <action id="Blaze.RunGlazeOnDirectory">
+    <keyboard-shortcut first-keystroke="shift ctrl g" />
+  </action>
   <action id="G4Sync">
     <keyboard-shortcut first-keystroke="shift ctrl alt 4" />
   </action>
