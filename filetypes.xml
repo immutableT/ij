@@ -5,8 +5,11 @@
       <mapping pattern="*.ng.html" type="Angular2Html" />
       <mapping ext="bazel" type="BUILD" />
       <mapping pattern="dockerfile" type="Dockerfile" />
+      <mapping pattern="*.js.flow" type="Flow" />
+      <mapping pattern="*.js.flow" type="Flow" />
       <mapping ext="template" type="Go template" />
       <mapping ext="manifest" type="JSON" />
+      <mapping pattern=".golint_failures" type="PLAIN_TEXT" />
       <mapping pattern="journal" type="PLAIN_TEXT" />
       <mapping pattern=".bazelrc" type="PLAIN_TEXT" />
       <mapping pattern="released-tricorder-vet" type="PLAIN_TEXT" />
