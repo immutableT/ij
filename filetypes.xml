@@ -11,9 +11,11 @@
       <mapping ext="manifest" type="JSON" />
       <mapping pattern=".golint_failures" type="PLAIN_TEXT" />
       <mapping pattern="journal" type="PLAIN_TEXT" />
+      <mapping pattern="kube-apiserver-csr-config" type="PLAIN_TEXT" />
       <mapping pattern=".bazelrc" type="PLAIN_TEXT" />
       <mapping pattern="released-tricorder-vet" type="PLAIN_TEXT" />
       <mapping ext="crt" type="PLAIN_TEXT" />
+      <mapping ext="ext" type="PLAIN_TEXT" />
       <mapping ext="key" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
       <mapping ext="1" type="PLAIN_TEXT" />
