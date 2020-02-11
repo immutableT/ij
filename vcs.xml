@@ -38,6 +38,10 @@
           <option name="url" value="https://github.com/AllenDowney/ThinkStats2.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/immutableT/k8s-secrets-and-gitops.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/ij-projects" />
