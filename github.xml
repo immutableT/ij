@@ -1,0 +1,10 @@
+<application>
+  <component name="GithubAccounts">
+    <account id="681243df-a768-4e61-8d59-98132a73e2f7" name="immutableT">
+      <server host="github.com" />
+    </account>
+  </component>
+  <component name="GithubSettings">
+    <option name="AUTH_TYPE" value="TOKEN" />
+  </component>
+</application>
