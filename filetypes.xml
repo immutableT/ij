@@ -21,6 +21,7 @@
       <mapping ext="pem" type="PLAIN_TEXT" />
       <mapping ext="1" type="PLAIN_TEXT" />
       <mapping ext="pi" type="Python" />
+      <mapping pattern="kubectl-create-secret,sh" type="Shell Script" />
       <mapping pattern="tsconfig_editor.json" type="tsconfig" />
     </extensionMap>
   </component>
