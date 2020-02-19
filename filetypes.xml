@@ -9,6 +9,7 @@
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping ext="template" type="Go template" />
       <mapping ext="manifest" type="JSON" />
+      <mapping pattern="Readme" type="PLAIN_TEXT" />
       <mapping pattern=".golint_failures" type="PLAIN_TEXT" />
       <mapping pattern="journal" type="PLAIN_TEXT" />
       <mapping pattern="kube-apiserver-csr-config" type="PLAIN_TEXT" />
