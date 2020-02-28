@@ -15,6 +15,7 @@
       <mapping pattern="kube-apiserver-csr-config" type="PLAIN_TEXT" />
       <mapping pattern=".bazelrc" type="PLAIN_TEXT" />
       <mapping pattern="released-tricorder-vet" type="PLAIN_TEXT" />
+      <mapping pattern=".bazelversion" type="PLAIN_TEXT" />
       <mapping ext="crt" type="PLAIN_TEXT" />
       <mapping ext="ext" type="PLAIN_TEXT" />
       <mapping ext="pub" type="PLAIN_TEXT" />
