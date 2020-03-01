@@ -46,6 +46,10 @@
           <option name="url" value="https://github.com/kubernetes/cloud-provider-gcp.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/square/go-jose.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/ij-projects" />
