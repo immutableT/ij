@@ -5,6 +5,7 @@
       <mapping pattern="*.ng.html" type="Angular2Html" />
       <mapping ext="bazel" type="BUILD" />
       <mapping pattern="Dockerfile-Distroless-libcap" type="Dockerfile" />
+      <mapping pattern="Dockerfile-Copy-FromHost" type="Dockerfile" />
       <mapping pattern="Dockerfile-COPY-Issue" type="Dockerfile" />
       <mapping pattern="dockerfile" type="Dockerfile" />
       <mapping pattern="*.js.flow" type="Flow" />
