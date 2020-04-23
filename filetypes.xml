@@ -4,23 +4,24 @@
     <extensionMap>
       <mapping pattern="*.ng.html" type="Angular2Html" />
       <mapping ext="bazel" type="BUILD" />
-      <mapping pattern="Dockerfile-Distroless-libcap" type="Dockerfile" />
-      <mapping pattern="Dockerfile-Copy-FromHost" type="Dockerfile" />
       <mapping pattern="Dockerfile-COPY-Issue" type="Dockerfile" />
+      <mapping pattern="Dockerfile-Copy-FromHost" type="Dockerfile" />
+      <mapping pattern="Dockerfile-SetCap-In-Image" type="Dockerfile" />
+      <mapping pattern="Dockerfile-Distroless-libcap" type="Dockerfile" />
       <mapping pattern="dockerfile" type="Dockerfile" />
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping ext="template" type="Go template" />
       <mapping ext="manifest" type="JSON" />
-      <mapping pattern="Readme" type="PLAIN_TEXT" />
       <mapping pattern=".golint_failures" type="PLAIN_TEXT" />
+      <mapping pattern="Readme" type="PLAIN_TEXT" />
       <mapping pattern="journal" type="PLAIN_TEXT" />
+      <mapping pattern="cloud-sdk-pod-1" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile1" type="PLAIN_TEXT" />
       <mapping pattern="kube-apiserver-csr-config" type="PLAIN_TEXT" />
-      <mapping pattern=".bazelrc" type="PLAIN_TEXT" />
-      <mapping pattern="cloud-sdk-pod-1" type="PLAIN_TEXT" />
-      <mapping pattern="released-tricorder-vet" type="PLAIN_TEXT" />
       <mapping pattern=".bazelversion" type="PLAIN_TEXT" />
+      <mapping pattern="released-tricorder-vet" type="PLAIN_TEXT" />
+      <mapping pattern=".bazelrc" type="PLAIN_TEXT" />
       <mapping ext="crt" type="PLAIN_TEXT" />
       <mapping ext="ext" type="PLAIN_TEXT" />
       <mapping ext="pub" type="PLAIN_TEXT" />
@@ -29,8 +30,8 @@
       <mapping ext="pem" type="PLAIN_TEXT" />
       <mapping ext="1" type="PLAIN_TEXT" />
       <mapping ext="pi" type="Python" />
-      <mapping pattern="kubectl-create-secret,sh" type="Shell Script" />
       <mapping pattern="kubectl-create-secret.sh" type="Shell Script" />
+      <mapping pattern="kubectl-create-secret,sh" type="Shell Script" />
       <mapping pattern="tsconfig_editor.json" type="tsconfig" />
     </extensionMap>
   </component>
