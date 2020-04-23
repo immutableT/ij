@@ -26,6 +26,7 @@
       <mapping ext="ext" type="PLAIN_TEXT" />
       <mapping ext="pub" type="PLAIN_TEXT" />
       <mapping ext="key" type="PLAIN_TEXT" />
+      <mapping ext="config" type="PLAIN_TEXT" />
       <mapping ext="srl" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
       <mapping ext="1" type="PLAIN_TEXT" />
